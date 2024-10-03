@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Time spent: **5** hours spent in total
 
 ## Required Features
@@ -45,3 +46,6 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# Flashcards_Project2
+>>>>>>> b75444bb48492826f9123eb9f344100fc19d9b2c
