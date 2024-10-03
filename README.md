@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Time spent: **5** hours spent in total
-=======
 # Web Development Project 2 - *Flash Cards*
 
 Submitted by: **S H SAI S NAIDU**
