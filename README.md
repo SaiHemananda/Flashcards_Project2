@@ -2,13 +2,13 @@
 <<<<<<< HEAD
 Time spent: **5** hours spent in total
 =======
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Flash Cards*
 
-Submitted by: **Your Name Here**
+Submitted by: **S H SAI S NAIDU**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 >>>>>>> 302ddfb990884fcf9c1f021c83f451f5272612dc
 
 ## Required Features
